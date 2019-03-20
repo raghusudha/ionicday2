@@ -1,0 +1,7 @@
+{
+  "name": "bhilapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
